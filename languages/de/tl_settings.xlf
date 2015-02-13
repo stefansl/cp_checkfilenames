@@ -1,0 +1,22 @@
+<?xml version="1.0" ?><xliff version="1.1">
+  <file datatype="php" original="system/modules/cp_checkfilenames/languages/en/tl_settings.php" source-language="en">
+    <body>
+      <trans-unit id="tl_settings.validateFilenames.0">
+        <source>Checkfilename</source>
+        <target>Prüfe Dateiname</target>
+      </trans-unit>
+      <trans-unit id="tl_settings.validateFilenames.1">
+        <source>Checks filenames after uploading and changes special characters</source>
+        <target>Überprüft nach dem Upload den Dateinamen und ersetzt ggf. diesen.</target>
+      </trans-unit>
+      <trans-unit id="tl_settings.filePreserveUppercase.0">
+        <source>Preserve uppercase in filenames</source>
+        <target>Großbuchstaben erlauben</target>
+      </trans-unit>
+      <trans-unit id="tl_settings.filePreserveUppercase.1">
+        <source>If set, the filename will not converted to lowercase</source>
+        <target>Großbuchstaben nicht in Kleinbuchstaben umwandeln</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
